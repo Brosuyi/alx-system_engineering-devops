@@ -13,3 +13,4 @@ List in current, parent and boot dir
 Print file type
 Create symbolic link
 Copy HTML files
+Move uppercase in lets move
