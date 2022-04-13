@@ -7,3 +7,4 @@ List files digit
 Make a directory
 Move that file
 Delete the file
+Delete the directory
