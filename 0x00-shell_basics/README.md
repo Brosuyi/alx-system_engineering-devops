@@ -10,3 +10,4 @@ Delete the file
 Delete the directory
 Change to previous directory
 List in current, parent and boot dir
+Print file type
