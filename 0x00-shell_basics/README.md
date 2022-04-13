@@ -8,3 +8,4 @@ Make a directory
 Move that file
 Delete the file
 Delete the directory
+Change to previous directory
