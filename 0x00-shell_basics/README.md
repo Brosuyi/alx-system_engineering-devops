@@ -6,3 +6,4 @@ List all files in long format
 List files digit
 Make a directory
 Move that file
+Delete the file
