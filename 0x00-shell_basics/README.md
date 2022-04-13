@@ -15,3 +15,4 @@ Create symbolic link
 Copy HTML files
 Move uppercase in lets move
 Delete all ~ files
+Create directory tree
