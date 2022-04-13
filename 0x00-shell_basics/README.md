@@ -17,3 +17,4 @@ Move uppercase in lets move
 Delete all ~ files
 Create directory tree
 List content separated by comma
+Magic file made
